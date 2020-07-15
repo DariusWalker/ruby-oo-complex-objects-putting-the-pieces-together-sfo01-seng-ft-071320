@@ -5,7 +5,7 @@ end
  def initialize(shoe)
    @shoe=shoe 
  end 
- def shoe 
-   @shoe=shoe 
+ def shoe
+   @shoe
  end 
 end 
