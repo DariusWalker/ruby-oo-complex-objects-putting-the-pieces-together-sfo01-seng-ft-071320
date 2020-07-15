@@ -8,4 +8,4 @@ end
  def shoe 
    @shoe=shoe 
  end 
- 
+end 
