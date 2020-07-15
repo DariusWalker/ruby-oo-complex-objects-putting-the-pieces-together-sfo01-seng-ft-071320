@@ -2,9 +2,8 @@
 class Shoe 
 attr_accessor :shoe, :brand 
  
- def initialize(shoe, brand)
-   @shoe=shoe 
-   @brand=brand
+ def initialize(brand)
+    @brand=brand
  end 
  
  
